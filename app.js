@@ -1,3 +1,4 @@
 function print() { 
-    document.getElementById("1").innerHTML = "Hello Shanku";
+    document.getElementById("hello").innerHTML = "Hello Shanku";
 }
+print();
